@@ -40,12 +40,12 @@ Technologies used:
                     
                     
 Inspiration :
-
 https://data.cityofnewyork.us/Social-Services/NYC-Wi-Fi-Hotspot-Locations/a9we-mtpn
                     
                    
 Last Updated:  
-June 22, 2020                 
+June 22, 2020
+:computer:
                       
                       
                       
