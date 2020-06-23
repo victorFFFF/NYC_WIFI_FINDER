@@ -27,8 +27,8 @@ Live Demo:
 
             
                       
-Technologies used: 
-&emsp;&emsp;&emsp; 
+Technologies used: \
+
                      Frontend:  React, Redux \
                      Backend:   Express, NodeJS \
                      Database:  MongoDB, MongoDB Atlas, Mongoose \
