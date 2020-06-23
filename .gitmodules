@@ -1,0 +1,6 @@
+[submodule "ttp-capstone-backend"]
+	path = ttp-capstone-backend
+	url = https://github.com/BayardoZelaya/ttp-capstone-backend.git
+[submodule "ttp-capstone-frontend"]
+	path = ttp-capstone-frontend
+	url = https://github.com/BayardoZelaya/ttp-capstone-frontend.git
