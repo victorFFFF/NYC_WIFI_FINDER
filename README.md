@@ -17,7 +17,7 @@ Credit / Contributor:
                       Victor Li : https://github.com/victorFFFF \
                       Bayardo Zelaya : https://github.com/BayardoZelaya \
                       ChunHao Zheng: https://github.com/chunhz \
-                      Yimni Chan: https://github.com/YimniChan  \
+                      Yimni Chan: https://github.com/YimniChan  
                       
                       
                       
