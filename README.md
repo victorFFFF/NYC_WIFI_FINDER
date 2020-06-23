@@ -1,5 +1,5 @@
 # NYC_WIFI_FINDER
-An app that locates WiFi hotpots in NYC.
+Goal : To create an app that locates WiFi hotpots in NYC with many functionalities.
 
 
 
@@ -30,6 +30,11 @@ Technologies used: \
                      Backend:   Express, NodeJS \
                      Database:  MongoDB, MongoDB Atlas, Mongoose \
                      API:       Javascript Google maps, Google Geocoding, NYC Open Data Wifi
+                     
+                     
+                    
+                    
+Inspiration : https://data.cityofnewyork.us/Social-Services/NYC-Wi-Fi-Hotspot-Locations/a9we-mtpn
                     
                    
 Last Updated:        June 22, 2020                 
