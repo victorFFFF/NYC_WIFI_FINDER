@@ -1,11 +1,11 @@
 # NYC_WIFI_FINDER
-Goal : 
-      &emsp;&emsp;&emsp; To create an app that locates WiFi hotpots in NYC with many functionalities. 
+Goal :  \
+       To create an app that locates WiFi hotpots in NYC with many functionalities. 
 
 
 
-Original Repositories:
-                       Frontend: https://github.com/BayardoZelaya/ttp-capstone-frontend
+Original Repositories: \
+                       Frontend: https://github.com/BayardoZelaya/ttp-capstone-frontend \
                        Backend:  https://github.com/BayardoZelaya/ttp-capstone-backend
                      
                        
@@ -29,9 +29,9 @@ Live Demo:
             
                       
 Technologies used:   
-                     Frontend:  React, Redux 
-                     Backend:   Express, NodeJS 
-                     Database:  MongoDB, MongoDB Atlas, Mongoose 
+                     Frontend:  React, Redux \
+                     Backend:   Express, NodeJS \ 
+                     Database:  MongoDB, MongoDB Atlas, Mongoose \
                      API:       Javascript Google maps, Google Geocoding, NYC Open Data Wifi
 
                 
