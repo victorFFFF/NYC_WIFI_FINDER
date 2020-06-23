@@ -30,7 +30,7 @@ Live Demo: \
                       
 Technologies used:   
                      Frontend:  React, Redux \
-                     Backend:   Express, NodeJS \ 
+                     Backend:   Express, NodeJS  \ 
                      Database:  MongoDB, MongoDB Atlas, Mongoose \
                      API:       Javascript Google maps, Google Geocoding, NYC Open Data Wifi
 
