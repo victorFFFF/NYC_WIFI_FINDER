@@ -13,7 +13,7 @@ Original Repositories: \
 
 
 
-Credit / Contributor:  
+Credits / Contributors:  
                       Victor Li : https://github.com/victorFFFF \
                       Bayardo Zelaya : https://github.com/BayardoZelaya \
                       ChunHao Zheng: https://github.com/chunhz \
