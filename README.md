@@ -11,10 +11,10 @@ Original Repositories:\
 
 
 Credit / Contributor: \
-                      Victor Li,
-                      Bayardo Zelaya,
-                      ChunHao Zheng, 
-                      Yimni Chan
+                      Victor Li : https://github.com/victorFFFF \
+                      Bayardo Zelaya : https://github.com/BayardoZelaya \
+                      ChunHao Zheng: https://github.com/chunhz \
+                      Yimni Chan: https://github.com/YimniChan \
                       
                       
                       
