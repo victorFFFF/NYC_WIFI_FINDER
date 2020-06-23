@@ -46,9 +46,5 @@ https://data.cityofnewyork.us/Social-Services/NYC-Wi-Fi-Hotspot-Locations/a9we-m
 Last Updated:  
 June 22, 2020
 
-                      
-First Header | Second Header                
------------- | -------------
-Content from cell 1 | Content from cell 2
-Content in the first column | Content in the second column
+
                       
