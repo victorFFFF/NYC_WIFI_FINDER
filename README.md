@@ -1,30 +1,26 @@
 # NYC_WIFI_FINDER
-Goal : \  
-&emsp;&emsp;&emsp; 
-       To create an app that locates WiFi hotpots in NYC with many functionalities.
+Goal : 
+      \ &emsp;&emsp;&emsp; To create an app that locates WiFi hotpots in NYC with many functionalities.
 
 
 
-Original Repositories:\ 
-&emsp;&emsp;&emsp; 
-                      Frontend: https://github.com/BayardoZelaya/ttp-capstone-frontend \
-                      Backend:  https://github.com/BayardoZelaya/ttp-capstone-backend
+Original Repositories:
+                    \ &emsp;&emsp;&emsp;   Frontend: https://github.com/BayardoZelaya/ttp-capstone-frontend \
+                    \ &emsp;&emsp;&emsp;   Backend:  https://github.com/BayardoZelaya/ttp-capstone-backend
 
 
 
 
-Credit / Contributor: \  
-&emsp;&emsp;&emsp; 
-                      Victor Li : https://github.com/victorFFFF \
-                      Bayardo Zelaya : https://github.com/BayardoZelaya \
-                      ChunHao Zheng: https://github.com/chunhz \
-                      Yimni Chan: https://github.com/YimniChan 
+Credit / Contributor:  
+                    \ &emsp;&emsp;&emsp;   Victor Li : https://github.com/victorFFFF \
+                    \ &emsp;&emsp;&emsp;   Bayardo Zelaya : https://github.com/BayardoZelaya \
+                    \ &emsp;&emsp;&emsp;   ChunHao Zheng: https://github.com/chunhz \
+                    \ &emsp;&emsp;&emsp;   Yimni Chan: https://github.com/YimniChan 
                       
                       
                       
-Live Demo: \  
-&emsp;&emsp;&emsp; 
-                     https://ttp-wifi-finder-185ee.web.app/
+Live Demo: 
+           \ &emsp;&emsp;&emsp;   https://ttp-wifi-finder-185ee.web.app/
 
 
 
