@@ -1,4 +1,4 @@
-# NYC_WIFI_FINDER
+# NYC_WIFI_FINDER :computer:
 Goal :  \
        To create an app that locates WiFi hotpots in NYC with many functionalities. 
 
@@ -45,7 +45,7 @@ https://data.cityofnewyork.us/Social-Services/NYC-Wi-Fi-Hotspot-Locations/a9we-m
                    
 Last Updated:  
 June 22, 2020
-:computer:
+
                       
                       
                       
