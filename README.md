@@ -27,7 +27,8 @@ Live Demo:
 
             
                       
-Technologies used: \  &emsp;&emsp;&emsp; 
+Technologies used: 
+&emsp;&emsp;&emsp; 
                      Frontend:  React, Redux \
                      Backend:   Express, NodeJS \
                      Database:  MongoDB, MongoDB Atlas, Mongoose \
@@ -36,7 +37,8 @@ Technologies used: \  &emsp;&emsp;&emsp;
                      
                     
                     
-Inspiration :\  &emsp;&emsp;&emsp; 
+Inspiration :\  
+&emsp;&emsp;&emsp; 
 https://data.cityofnewyork.us/Social-Services/NYC-Wi-Fi-Hotspot-Locations/a9we-mtpn
                     
                    
