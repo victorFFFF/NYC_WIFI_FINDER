@@ -39,7 +39,7 @@ Technologies used:
                      
                     
                     
-Inspiration :
+Inspiration : \
 https://data.cityofnewyork.us/Social-Services/NYC-Wi-Fi-Hotspot-Locations/a9we-mtpn
                     
                    
