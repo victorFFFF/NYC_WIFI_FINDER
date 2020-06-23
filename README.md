@@ -37,9 +37,7 @@ Technologies used:
                 
                      
                      
-                     
-Info slides: \
-https://docs.google.com/presentation/d/129rLl284Tqt9IayjGJKHtBz8JDgDNKu_17sJurprJE0/edit#slide=id.g25f6af9dd6_0_0
+                   
                     
 Inspiration : \
 https://data.cityofnewyork.us/Social-Services/NYC-Wi-Fi-Hotspot-Locations/a9we-mtpn
