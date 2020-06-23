@@ -1,4 +1,4 @@
-# NYC_WIFI_FINDER :computer: :desktop_computer:
+# NYC_WIFI_FINDER :computer: 
 Goal :  \
        To create an app that locates WiFi hotpots in NYC with many functionalities. 
 
