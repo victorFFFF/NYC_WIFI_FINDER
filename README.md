@@ -42,7 +42,8 @@ Inspiration :\
 https://data.cityofnewyork.us/Social-Services/NYC-Wi-Fi-Hotspot-Locations/a9we-mtpn
                     
                    
-Last Updated:\  &emsp;&emsp;&emsp; 
+Last Updated:  
+&emsp;&emsp;&emsp; 
 June 22, 2020                 
                       
                       
