@@ -1,6 +1,6 @@
 # NYC_WIFI_FINDER
 Goal : \
-            To create an app that locates WiFi hotpots in NYC with many functionalities.
+           &nbsp; To create an app that locates WiFi hotpots in NYC with many functionalities.
 
 
 
