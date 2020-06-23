@@ -1,17 +1,17 @@
 # NYC_WIFI_FINDER
-Goal : \
-         &emsp;&emsp;&emsp; To create an app that locates WiFi hotpots in NYC with many functionalities.
+Goal : \  &emsp;&emsp;&emsp; 
+       To create an app that locates WiFi hotpots in NYC with many functionalities.
 
 
 
-Original Repositories:\
+Original Repositories:\  &emsp;&emsp;&emsp; 
                       Frontend: https://github.com/BayardoZelaya/ttp-capstone-frontend \
                       Backend:  https://github.com/BayardoZelaya/ttp-capstone-backend
 
 
 
 
-Credit / Contributor: \
+Credit / Contributor: \  &emsp;&emsp;&emsp; 
                       Victor Li : https://github.com/victorFFFF \
                       Bayardo Zelaya : https://github.com/BayardoZelaya \
                       ChunHao Zheng: https://github.com/chunhz \
@@ -19,14 +19,14 @@ Credit / Contributor: \
                       
                       
                       
-Live Demo: \
+Live Demo: \  &emsp;&emsp;&emsp; 
                      https://ttp-wifi-finder-185ee.web.app/
 
 
 
             
                       
-Technologies used: \
+Technologies used: \  &emsp;&emsp;&emsp; 
                      Frontend:  React, Redux \
                      Backend:   Express, NodeJS \
                      Database:  MongoDB, MongoDB Atlas, Mongoose \
@@ -35,10 +35,12 @@ Technologies used: \
                      
                     
                     
-Inspiration : https://data.cityofnewyork.us/Social-Services/NYC-Wi-Fi-Hotspot-Locations/a9we-mtpn
+Inspiration :\  &emsp;&emsp;&emsp; 
+https://data.cityofnewyork.us/Social-Services/NYC-Wi-Fi-Hotspot-Locations/a9we-mtpn
                     
                    
-Last Updated:        June 22, 2020                 
+Last Updated:\  &emsp;&emsp;&emsp; 
+June 22, 2020                 
                       
                       
                       
