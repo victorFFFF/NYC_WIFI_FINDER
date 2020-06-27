@@ -22,7 +22,7 @@ Credits / Contributors:
                       
                       
 Live Demo: \
-              https://ttp-wifi-finder-185ee.web.app/
+              https://ttp-wifi-finder-185ee.web.app/ \
               https://wififinder.info/
 
 
